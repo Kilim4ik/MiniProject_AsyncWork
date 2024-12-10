@@ -7,3 +7,4 @@ async function deletePost(id) {
     }
     // Обробник події для видалення поста
 document.addEventListener('click', cb);
+/*Hello*/
