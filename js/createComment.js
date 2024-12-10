@@ -7,3 +7,4 @@ async function createComment(postId, comment) {
     }
     // Обробник події для додавання коментаря
 document.addEventListener('submit', cb);
+/*Hello*/
