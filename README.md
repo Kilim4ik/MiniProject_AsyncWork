@@ -1,2 +1,1 @@
-# MiniProject_AsyncWork
-хЫ
+# parcel-project-template
