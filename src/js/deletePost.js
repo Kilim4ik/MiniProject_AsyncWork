@@ -1,7 +1,6 @@
 async function deletePost(id) {
     try {
         await fetch(`http://localhost:3000/posts/${id}`, { method: 'DELETE' });
-        await getPosts();
     } catch (error) {
         console.error(error);
     }
